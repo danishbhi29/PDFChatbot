@@ -159,3 +159,5 @@ This project ignores local dependencies, environment variables, uploaded files, 
 ## License
 
 This project is for learning and development purposes.
+<img width="626" height="432" alt="image" src="https://github.com/user-attachments/assets/729bd339-60b9-4d14-833e-518b3a527aa8" />
+<img width="881" height="374" alt="image" src="https://github.com/user-attachments/assets/687210ec-d6a9-4a93-b246-d1092f3a09cd" />
