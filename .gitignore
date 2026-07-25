@@ -1,0 +1,61 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+Backend/venv/
+
+# FastAPI / local runtime data
+Backend/app/uploads/
+Backend/app/chroma_db/
+Backend/app/chroma_db_*/
+Backend/app/chroma_dbs/
+*.sqlite
+*.sqlite3
+*.db
+
+# Node / Vite
+node_modules/
+Frontend/node_modules/
+dist/
+Frontend/dist/
+.vite/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local temporary files
+tmp/
+temp/
+*.tmp
+*.bak
